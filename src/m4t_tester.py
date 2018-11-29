@@ -15,6 +15,7 @@ import sys
 from io import StringIO
 
 
+
 def main():
     """ Calls the   TEST   functions in this module. """
     run_test_sum_of_digits()
